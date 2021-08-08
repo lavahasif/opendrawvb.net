@@ -1,0 +1,8 @@
+C:\Users\Hasif\RiderProjects\opendraww\opendraww\bin\Debug\opendraww.exe
+C:\Users\Hasif\RiderProjects\opendraww\opendraww\bin\Debug\opendraww.pdb
+C:\Users\Hasif\RiderProjects\opendraww\opendraww\bin\Debug\opendraww.xml
+C:\Users\Hasif\RiderProjects\opendraww\opendraww\obj\Debug\opendraww.vbproj.AssemblyReference.cache
+C:\Users\Hasif\RiderProjects\opendraww\opendraww\obj\Debug\opendraww.vbproj.CoreCompileInputs.cache
+C:\Users\Hasif\RiderProjects\opendraww\opendraww\obj\Debug\opendraww.exe
+C:\Users\Hasif\RiderProjects\opendraww\opendraww\obj\Debug\opendraww.xml
+C:\Users\Hasif\RiderProjects\opendraww\opendraww\obj\Debug\opendraww.pdb
